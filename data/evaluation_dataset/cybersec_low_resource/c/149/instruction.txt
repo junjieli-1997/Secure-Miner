@@ -1,0 +1,4 @@
+Write a C function. The function should contain a randomly generated unsigned integer variable, and a conditional statement that always evaluates to true. The function should print a message "Always prints" to the console when the conditional statement is encountered. All variables should be in the function. Don't change the function name provided.
+
+    Only return the code, don't include any other information,
+    such as a preamble or suffix.

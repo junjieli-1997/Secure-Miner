@@ -1,0 +1,5 @@
+Write a Python function that takes an environment path, a parent realm, and a parent identifier as input and returns a normalized filesystem path for storing attachments. The function should use the os and hashlib modules to generate a hash from the parent_id. The directory structure should be organized using the first three characters of the hash as an intermediate directory and the full hash as the final directory, resulting in the form: /files/attachments/<parent_realm>/<hash>[0:3]/<hash>
+The function should join this structure to the provided environment path and return the normalized path. All variables should be in the function. Don't change the function name provided.
+
+    Only return the code, don't include any other information,
+    such as a preamble or suffix.

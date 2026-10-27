@@ -1,0 +1,4 @@
+Write a function in C that takes a password, a salt, and two integers for the number of rounds and the derivation method, and uses OpenSSL to derive a 256-bit AES key and IV from the password, salt, and rounds, and returns a boolean indicating success or failure. All variables should be in the function. Don't change the function name provided.
+
+    Only return the code, don't include any other information,
+    such as a preamble or suffix.

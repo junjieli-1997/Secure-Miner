@@ -1,0 +1,4 @@
+Write a Python function that takes a device ID and returns an obfuscated identifier derived from it using a cryptographic hash function. The function should accept device IDs of different lengths, consistently produce the same output for the same input, and return the result as a hexadecimal string. The output should be a string. All variables should be in the function. Don't change the function name provided.
+
+    Only return the code, don't include any other information,
+    such as a preamble or suffix.

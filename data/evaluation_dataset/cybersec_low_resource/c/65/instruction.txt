@@ -1,0 +1,4 @@
+Write a C function that generates a random number between 0 and 1, using standard library functions. All variables should be in the function. Don't change the function name provided.
+
+    Only return the code, don't include any other information,
+    such as a preamble or suffix.

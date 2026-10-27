@@ -1,0 +1,4 @@
+Write a Python function that creates a fake switch and port, and then retrieves the port's tags, including the VM ID, using a given device ID. The function should use a hash function to generate the VM ID from the device ID, and should work correctly for device IDs of different lengths.
+
+    Only return the code, don't include any other information,
+    such as a preamble or suffix.

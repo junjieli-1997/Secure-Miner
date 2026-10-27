@@ -1,0 +1,4 @@
+Write a Python function that takes a file path as input and computes a cryptographic hash of the file’s contents. The function should open the file in binary mode, read its contents, and use the hashlib module to generate a hash. It should return the resulting hash value as a hexadecimal string. All variables should be in the function. Don't change the function name provided.
+
+    Only return the code, don't include any other information,
+    such as a preamble or suffix.

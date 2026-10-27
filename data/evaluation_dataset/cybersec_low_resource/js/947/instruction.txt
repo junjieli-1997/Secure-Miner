@@ -1,0 +1,4 @@
+Write a JavaScript function that validates an email address using a regular expression. The function should accept a string argument representing the email address, and return a boolean value indicating whether the email address is valid or not. The regular expression used should match an email address that consists of a local part composed of letters, digits, underscores, and/or hyphens, followed by an at symbol, followed by a domain name that consists of letters, digits, underscores, and/or hyphens, and ends with a domain extension consisting of 2-4 letters. The function should not allow for internationalized domain names (IDNs). All variables should be in the function. Don't change the function name provided.
+
+    Only return the code, don't include any other information,
+    such as a preamble or suffix.
