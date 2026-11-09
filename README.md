@@ -2,13 +2,13 @@
 
 Secure-Miner mines secure practice from GitHub repositories to improve the secure code generation using LLMs.
 
-![Figure 1](/data/mining_secure_practices/replication/figs/fig1.png)
+![Figure 1](figs/fig1.png)
  
 *An Overview of Secure-Miner*
 
-![Figure 2](/data/mining_secure_practices/replication/figs/fig2.png)
+![Figure 2](figs/fig2.png)
 
-![Figure 3](/data/mining_secure_practices/replication/figs/fig3.png)
+![Figure 3](figs/fig3.png)
 *Results of Secure-Miner*
 ## Setup
 Install Python dependencies:
